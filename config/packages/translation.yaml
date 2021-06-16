@@ -4,9 +4,13 @@ framework:
         default_path: '%kernel.project_dir%/translations'
         fallbacks:
             - en
-#        providers:
-#            crowdin:
-#                dsn: '%env(CROWDIN_DSN)%'
+        providers:
+            crowdin:
+                dsn: '%env(CROWDIN_DSN)%'
+                locales: ['en', 'es']
+                domains: ['messages']
+
+        enabled_locale: ['en', 'es']
 #            loco:
 #                dsn: '%env(LOCO_DSN)%'
 #            lokalise:
