@@ -1,0 +1,12 @@
+---
+home:
+  title: Home Title
+btn:
+  go: Go
+  click: Click
+notes:
+  do_not_click: Do not click this button
+result:
+  not_found: Result not found
+name:
+  test: test name
