@@ -1,0 +1,9 @@
+---
+errors:
+  update: Errores al actualizar
+  delete: Error al eliminar
+  create: Errores al actualizar
+success:
+  update:
+    user: usuario actualizado correctamente
+    product: Producto informado con éxito.
