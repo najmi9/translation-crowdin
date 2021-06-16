@@ -1,0 +1,12 @@
+---
+home:
+  title: Título Inicial
+btn:
+  go: OK
+  click: Click
+notes:
+  do_not_click: Não clique neste botão
+result:
+  not_found: Resultado não encontrado
+name:
+  test: nome do teste
